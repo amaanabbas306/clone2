@@ -1,0 +1,104 @@
+header{
+    background-color: black;
+    height: 90px;
+}
+a{
+    color: antiquewhite;
+    margin-right: 50px;
+    padding-left: 10px;
+    text-align: center;
+}
+a:hover{
+    background-color: red;
+}
+input{
+    width: 300px;;
+}
+#logo{
+    color: #a87f32;
+    font-size: 45px;
+}
+button{
+    background-color: black;
+    color: #a87f32;
+}
+.banner{
+    background-image: url(jacket\ banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-top: 50px;
+    color: whitesmoke;
+    
+}
+.banner,p{
+    text-align: center;
+}
+.one{
+    height: 400px;
+    width: 250px;
+    background-color: green;
+    border: 4px solid black;
+    margin-top: 50px;
+    margin-left: 5px;
+    text-align: center;
+    display: inline-block;
+}
+.one:hover{
+    color: springgreen;    
+}
+.two:hover{
+    color: springgreen;
+}
+.three:hover{
+    color: springgreen;
+}
+.four:hover{
+    color: springgreen;
+}
+
+
+.two{
+    height: 400px;
+    width: 250px;
+    padding-bottom: 20px;
+    margin-left: 10px;
+    background-color: rgb(87, 87, 173);
+    border: 4px solid black;
+    display: inline-block;
+    text-align: center;
+    margin-top: 50px;
+}
+.three{
+    height: 350px;
+    width: 250px;
+    padding-bottom: 20px;
+    margin-left: 8px;
+    border: 4px solid black;
+    background-color: black;
+    display: inline-block;
+    text-align: center;
+    margin-top: 50px;
+}
+.four{
+    height: 350px;
+    width: 250px;
+    margin-left: 10px;
+    padding-bottom: 20px;
+    border: 4px solid black;
+    display: inline-block;
+    text-align: center;
+    margin-top: 50px;
+    background-color: maroon;
+}
+footer{
+    background-color: red;
+    height: 200px;
+}
+button:hover{
+    color: yellow;
+
+}
+h1{
+    text-align: center;
+}
